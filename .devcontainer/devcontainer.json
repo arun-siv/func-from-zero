@@ -26,10 +26,11 @@
             "python.formatting.blackPath": "/usr/local/bin/black"
         },
         "extensions": [
-          "ms-python.vscode-pylance",
-          "ms-python.python",
-          "visualstudioexptteam.vscodeintellicode"
-        ]
+			"ms-python.vscode-pylance",
+			"ms-python.python",
+			"visualstudioexptteam.vscodeintellicode",
+			"ms-vscode.makefile-tools"
+		]
     }
 }
 
