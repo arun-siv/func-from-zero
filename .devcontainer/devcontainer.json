@@ -18,12 +18,7 @@
 	"customizations": {
     "vscode": {
         "settings": {
-            "python.pythonPath": "/usr/local/bin/python3",
-            "python.linting.enabled": true,
-            "python.linting.flake8Enabled": true,
-            "python.linting.pylintEnabled": false,
-            "python.formatting.provider": "black",
-            "python.formatting.blackPath": "/usr/local/bin/black"
+            "python.pythonPath": "/home/vscode/.venv/bin/python"
         },
         "extensions": [
 			"ms-python.vscode-pylance",
